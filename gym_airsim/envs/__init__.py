@@ -1,1 +1,1 @@
-from gym_airsim.envs.airsim_env import AirSimEnv
+from gym_airsim.envs.airsim_discrt_env import AirSimDiscrtEnv
