@@ -1,6 +1,0 @@
-README.md
-gym_airsim.egg-info/PKG-INFO
-gym_airsim.egg-info/SOURCES.txt
-gym_airsim.egg-info/dependency_links.txt
-gym_airsim.egg-info/requires.txt
-gym_airsim.egg-info/top_level.txt
