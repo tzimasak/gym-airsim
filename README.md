@@ -31,7 +31,7 @@ Really simple environment for starting off with tracking tasks and AirSim.
 ![cube screenshot](docs/images/static_cube.png)
 
 # Gym Environments
-**FrontalShotDroneOnlyMulti**
+### FrontalShotDroneOnlyMulti
 
     Corresponding Unreal Engine Environmet: MultiHumanCity
 	
@@ -68,7 +68,7 @@ Really simple environment for starting off with tracking tasks and AirSim.
         The drone collides with another object.
         20 seconds pass from the beggining of the episode.
 
-**FrontalShotContMulti**
+### FrontalShotContMulti
 
     Corresponding Unreal Engine Environmet: MultiHumanCity
 	
@@ -101,7 +101,7 @@ Really simple environment for starting off with tracking tasks and AirSim.
         The drone collides with another object.
         20 seconds pass from the beggining of the episode.
 
-**FrontalShotDroneOnly**
+### FrontalShotDroneOnly
 
     Corresponding Unreal Engine Environmet: StaticHuman
 	
@@ -137,7 +137,7 @@ Really simple environment for starting off with tracking tasks and AirSim.
         The drone collides with another object.
         10 seconds pass from the beggining of the episode.
 
-**FrontalShotCont**
+### FrontalShotCont
 
     Corresponding Unreal Engine Environmet: StaticHuman
 	
@@ -169,7 +169,7 @@ Really simple environment for starting off with tracking tasks and AirSim.
         The drone collides with another object.
         10 seconds pass from the beggining of the episode.
 
-**FollowTargetCamOnly**
+### FollowTargetCamOnly
 
 	Corresponding Unreal Engine Environmet: StaticCube
 	
