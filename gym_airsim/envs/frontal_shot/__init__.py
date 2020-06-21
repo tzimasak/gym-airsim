@@ -1,6 +1,0 @@
-# Single Person
-from gym_airsim.envs.frontal_shot.airsim_frontal_shot_drone_only_env import AirSimFrontalShotDroneOnlyEnv
-from gym_airsim.envs.frontal_shot.airsim_frontal_shot_cont_env import AirSimFrontalShotContEnv
-# Multiple People
-from gym_airsim.envs.frontal_shot.airsim_frontal_shot_drone_only_multi_env import AirSimFrontalShotDroneOnlyMultiEnv
-from gym_airsim.envs.frontal_shot.airsim_frontal_shot_cont_multi_env import AirSimFrontalShotContMultiEnv
