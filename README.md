@@ -12,7 +12,7 @@ the console and type one of the following (without quotes):
 * "exit" : Exits the simulator.
 
 ## MultiHumanCity
-This environment represent a small part of a city. It consists of four buildings, bus stops, trees and other small 
+This environment represents a small part of a city. It consists of four buildings, bus stops, trees and other small 
 items. This city includes 9 different 3D models of humans with a variety of clothing and facial features. The humans
 have a small idling animation.
 
