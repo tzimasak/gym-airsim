@@ -66,9 +66,13 @@ The drone is placed in a random position in front of a random target
 human facing towards him.
 
 **Episode Termination:**
+
 The person's face moves out of the camera frame.
+
 The drone moves far away from the person's face.
+
 The drone collides with another object.
+
 20 seconds pass from the beggining of the episode.
 
 ### FrontalShotContMulti
@@ -102,9 +106,13 @@ The drone is placed in a random position in front of a random target
 human facing towards him.
 
 **Episode Termination:**
+
 The person's face moves out of the camera frame.
+
 The drone moves far away from the person's face.
+
 The drone collides with another object.
+
 20 seconds pass from the beggining of the episode.
 
 ### FrontalShotDroneOnly
@@ -141,9 +149,13 @@ The drone is placed in a random position in front of the target
 human facing towards him.
 
 **Episode Termination:**
+
 The person's face moves out of the camera frame.
+
 The drone moves far away from the person's face.
+
 The drone collides with another object.
+
 10 seconds pass from the beggining of the episode.
 
 ### FrontalShotCont
@@ -176,9 +188,13 @@ The drone is placed in a random position in front of the target
 human facing towards him.
 
 **Episode Termination:**
+
 The person's face moves out of the camera frame.
+
 The drone moves far away from the person's face.
+
 The drone collides with another object.
+
 10 seconds pass from the beggining of the episode.
 
 ### FollowTargetCamOnly
@@ -208,7 +224,10 @@ camera's frame.
 **Starting State:**
 Drone starts in a random position in the air with the camera pointed
 at the direction of the red cube.
-Episode Termination:
+
+**Episode Termination:**
+
 Cube moves out of the camera frame.
+
 Drone completes the trajectory and stops moving.
 
