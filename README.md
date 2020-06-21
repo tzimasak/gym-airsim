@@ -11,27 +11,33 @@ the console and type one of the following (without quotes):
 * "fullscreen" : Toggles between fullscreen and windowed mode.
 * "exit" : Exits the simulator.
 
-### MultiHumanCity
+## MultiHumanCity
 This environment represent a small part of a city. It consists of four buildings, bus stops, trees and other small 
 items. This city includes 9 different 3D models of humans with a variety of clothing and facial features. The humans
 have a small idling animation.
 
 ![city screenshot](docs/images/city1.png)
 
-### StaticHuman
+<br/>
+
+## StaticHuman
 This environment consists of a square platform and the 3D model of a human in its center. The background is a simple 
 skybox.
 
 ![human screenshot](docs/images/static_human.png)
 
-### StaticCube
+<br/>
+
+## StaticCube
 This environment consists of a square platform with a red cube in its center. The background is a simple skybox. 
 Really simple environment for starting off with tracking tasks and AirSim.
 
 ![cube screenshot](docs/images/static_cube.png)
 
+<br/>
+
 # Gym Environments
-### FrontalShotDroneOnlyMulti
+## FrontalShotDroneOnlyMulti
 **Corresponding Unreal Engine Environmet:** MultiHumanCity
 
 **Description:**
@@ -72,7 +78,7 @@ human facing towards him.
 * 20 seconds pass from the beggining of the episode.
 <br/><br/><br/>
 
-### FrontalShotContMulti
+## FrontalShotContMulti
 **Corresponding Unreal Engine Environmet:** MultiHumanCity
 
 **Description:**
@@ -109,7 +115,7 @@ human facing towards him.
 * 20 seconds pass from the beggining of the episode.
 <br/><br/><br/>
 
-### FrontalShotDroneOnly
+## FrontalShotDroneOnly
 **Corresponding Unreal Engine Environmet:** StaticHuman
 
 **Description:**
@@ -149,7 +155,7 @@ human facing towards him.
 * 10 seconds pass from the beggining of the episode.
 <br/><br/><br/>
 
-### FrontalShotCont
+## FrontalShotCont
 **Corresponding Unreal Engine Environmet:** StaticHuman
 
 **Description:**
@@ -185,7 +191,7 @@ human facing towards him.
 * 10 seconds pass from the beggining of the episode.
 <br/><br/><br/>
 
-### FollowTargetCamOnly
+## FollowTargetCamOnly
 **Corresponding Unreal Engine Environmet:** StaticCube
 
 **Description:**
