@@ -1,8 +1,9 @@
 # gym-airsim
 OpenAI Gym-compatible environment of AirSim for multirotor control in RL problems
 
-# FollowTargetCamOnly
-    Corresponding Unreal Engine Environmet: StaticCube
+# gym Environments
+**FollowTargetCamOnly**
+	Corresponding Unreal Engine Environmet: StaticCube
     Description:
         The drone performs a random trajectory and the agent has to keep
         track of the red cube using only the drone's camera.
@@ -28,10 +29,10 @@ OpenAI Gym-compatible environment of AirSim for multirotor control in RL problem
         Cube moves out of the camera frame.
         Drone completes the trajectory and stops moving.
 
-# FrontalShotDroneOnly
+**FrontalShotDroneOnly**
 
-# FrontalShotCont
+**FrontalShotCont**
 
-# FrontalShotDroneOnlyMulti
+**FrontalShotDroneOnlyMulti**
 
-# FrontalShotContMulti
+**FrontalShotContMulti**
