@@ -5,11 +5,11 @@ OpenAI Gym-compatible environments of AirSim for multirotor control in RL proble
 The Unreal Engine project provided in the releases section constists of 3 environments. Some simple commands for 
 the UE console are provided. Launch the project and press the back quote/tilde button(~) on your keyboard to open
 the console and type one of the following (without quotes):
-* "open MultiHumanCity" : Open the MultiHumanCity environment map.
-* "open StaticHuman" : Open the StaticHuman environment map.
-* "open StaticCube" : Open the StaticCube environment map.
-* "fullscreen" : Toggle between fullscreen and windowed mode.
-* "exit" : Exit the simulator.
+* "open MultiHumanCity" : Opens the MultiHumanCity environment map.
+* "open StaticHuman" : Opens the StaticHuman environment map.
+* "open StaticCube" : Opens the StaticCube environment map.
+* "fullscreen" : Toggles between fullscreen and windowed mode.
+* "exit" : Exits the simulator.
 
 ### MultiHumanCity
 This environment represent a small part of a city. It consists of four buildings, bus stops, trees and other small 
