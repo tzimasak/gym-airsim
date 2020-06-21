@@ -70,6 +70,7 @@ human facing towards him.
 * The drone moves far away from the person's face.
 * The drone collides with another object.
 * 20 seconds pass from the beggining of the episode.
+<br/><br/><br/>
 
 ### FrontalShotContMulti
 **Corresponding Unreal Engine Environmet:** MultiHumanCity
@@ -106,6 +107,7 @@ human facing towards him.
 * The drone moves far away from the person's face.
 * The drone collides with another object.
 * 20 seconds pass from the beggining of the episode.
+<br/><br/><br/>
 
 ### FrontalShotDroneOnly
 **Corresponding Unreal Engine Environmet:** StaticHuman
@@ -145,6 +147,7 @@ human facing towards him.
 * The drone moves far away from the person's face.
 * The drone collides with another object.
 * 10 seconds pass from the beggining of the episode.
+<br/><br/><br/>
 
 ### FrontalShotCont
 **Corresponding Unreal Engine Environmet:** StaticHuman
@@ -180,6 +183,7 @@ human facing towards him.
 * The drone moves far away from the person's face.
 * The drone collides with another object.
 * 10 seconds pass from the beggining of the episode.
+<br/><br/><br/>
 
 ### FollowTargetCamOnly
 **Corresponding Unreal Engine Environmet:** StaticCube
