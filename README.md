@@ -1,7 +1,9 @@
 # gym-airsim
-OpenAI Gym-compatible environment of AirSim for multirotor control in RL problems
+OpenAI Gym-compatible environments of AirSim for multirotor control in RL problems. All gym environments have corresponding Unreal Engine environments that are provided in the release section ready for use (Linux only).
 
-# gym Environments
+# Unreal Engine Environments
+
+# Gym Environments
 **FollowTargetCamOnly**
 	Corresponding Unreal Engine Environmet: StaticCube
     Description:
