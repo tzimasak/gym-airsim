@@ -14,6 +14,7 @@ More technical details are available in [Leveraging Deep Reinforcement Learning 
   pages={1-6},
 }
 ```
+<br/>
 
 # Unreal Engine Environments
 The Unreal Engine project provided in the releases section constists of 3 environments. Some simple commands for 
