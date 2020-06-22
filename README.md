@@ -2,6 +2,7 @@
 OpenAI Gym-compatible environments of AirSim for multirotor control in RL problems. All gym environments have corresponding Unreal Engine environments that are provided in the release section ready for use (Linux only).
 
 ### Paper
+The work in this repository is part of a publication made in the IEEE ICME 2020.  
 More technical details are available in [Leveraging Deep Reinforcement Learning For Active Shooting Under Open-World Setting (IEEE ICME 2020)](https://ieeexplore.ieee.org/abstract/document/9102966). Please cite this as:
 ```
 @INPROCEEDINGS{9102966,  
@@ -240,4 +241,4 @@ at the direction of the red cube.
 <br/><br/><br/>
 
 # Acknowledgement
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 871449 (OpenDR). This publication reflects the authors’ views only. The European Commission is not responsible for any use that may be made of the information it contains.
+This work was supported by the European Union's Horizon 2020 Research and Innovation Program ([OpenDR Project](https://opendr.eu) ) under Grant 871449. This publication reflects the authors' views only. The European Commission is not responsible for any use that may be made of the information it contains.
