@@ -1,6 +1,20 @@
 # gym-airsim
 OpenAI Gym-compatible environments of AirSim for multirotor control in RL problems. All gym environments have corresponding Unreal Engine environments that are provided in the release section ready for use (Linux only).
 
+### Paper
+More technical details are available in [Leveraging Deep Reinforcement Learning For Active Shooting Under Open-World Setting (IEEE ICME 2020)](https://ieeexplore.ieee.org/abstract/document/9102966). Please cite this as:
+```
+@INPROCEEDINGS{9102966,  
+  author={A. {Tzimas} and N. {Passalis} and A. {Tefas}},  
+  booktitle={2020 IEEE International Conference on Multimedia and Expo (ICME)},   
+  title={Leveraging Deep Reinforcement Learning For Active Shooting Under Open-World Setting},   
+  year={2020},  
+  volume={},  
+  number={},  
+  pages={1-6},
+}
+```
+
 # Unreal Engine Environments
 The Unreal Engine project provided in the releases section constists of 3 environments. Some simple commands for 
 the UE console are provided. Launch the project and press the back quote/tilde button(~) on your keyboard to open
@@ -222,3 +236,7 @@ at the direction of the red cube.
 **Episode Termination:**
 * Cube moves out of the camera frame.
 * Drone completes the trajectory and stops moving.
+<br/><br/><br/>
+
+# Acknowledgement
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 871449 (OpenDR). This publication reflects the authors’ views only. The European Commission is not responsible for any use that may be made of the information it contains.
